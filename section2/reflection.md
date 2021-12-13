@@ -2,6 +2,8 @@
 
 1. Regarding the blog posts in Part A, how do you feel about asking questions? Do you tend to ask them too soon, or wait too long, or somewhere in between?
 
+* Timing, Focus and Curtesy - While not to discourage the asking, there are some good points in the first two articles here. Spend time being stuck to avoid the "here let me google that for you" solution, and really try to describe the problem with precision. This might help make the problem clear enough to solve, but will definitely help you ask better questions if you need to. Really listen to the answers, and if something's a little fuzzy, you can try explaining it yourself, to a blog post or even a rubber ducky. And, there's nothing wrong with trying so solve something by yourself, just to struggle with it and learn! But, it's not worth beating yourself up for hours or days over something that your colleague could help solve in minutes, even IF it feels silly to ask. 
+
 ### If Statements
 
 1. What is a conditional statement? Give three examples.
