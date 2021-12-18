@@ -1,22 +1,21 @@
-#This is an exercise
+#declare cars and assign value 100
 cars = 100
-#I'm supposed to write comments
+#declare space_in_a_car and assign value 4
 space_in_a_car = 4
-#These variable assignments feel arbitrary
+#declar drivers and assign value 30
 drivers = 30
-#Thus is the cruel nature of educational scenarios
+#declares passengers and assigns value 90
 passengers = 90
-#Like Jo's 63 cantaloupes
+#declares cars_not_driven and assigns to an evaluation
 cars_not_driven = cars - drivers
-#Are they a vendor? Why do they have so many mellons?
+#declare cars driven and assign value equal to that of drivers
 cars_driven = drivers
-#It would explain why all of their friends also own an absurd quantity of fruit fruits and vegetables
+#declare carpool_capacity and assign equal to the product cars_driven with space_in_a_car
 carpool_capacity = cars_driven * space_in_a_car
-#Just once I want to see a question cannonically confirm this. Like, ask about how they file their small business taxes or something.
+#declare average_passengers_per_car and assign equal to quotent of cars_driven into passengers
 average_passengers_per_car = passengers / cars_driven
 
-# Now lets use all these declared variables in string literals!
-
+# Now lets interpolate all these declared variables into strings!
 puts "There are #{cars} cars available"
 puts "there are only #{drivers} drivers available"
 puts "There will be #{cars_not_driven} empty cars tody"
@@ -31,4 +30,4 @@ puts "We need to put about #{average_passengers_per_car} in each"
 # 4 - done
 # 5 - we would call this sign (=) an "assignment operator". Equality operators look a bit different in this context,"==" or "==="
 # 6 - yes _ is the underscore character
-# 7 - Ruby can algebra! 
+# 7 - Ruby can algebra!
